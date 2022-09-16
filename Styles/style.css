@@ -1,0 +1,110 @@
+body{
+    font-size: 22px;
+    position: absolute;
+    background-color: #E4EEF1;
+}
+
+.nomes{
+    background-color: #625F81;
+    width: 450px;
+    text-align: left;
+    border-top: 18px;
+    margin: 0 auto;
+    border: solid black 2px;
+    padding: 5px;
+}
+
+.Professor{
+    background-color: #595775;
+    width: 450px;
+    text-align: center;
+    margin: 0 auto;
+    border: solid black 2px;
+    padding: 5px;
+}
+
+.Topicos{
+    margin: 0 auto;
+    width: 2350px;
+    height: 2350px;
+    margin-top: 75px;
+}
+
+.Topico_definicao{
+    background-color: #77A3BB;
+    width: 550px;
+    height: 500px;
+    padding: 25px;
+    float: left;
+    margin-left: 35px;
+    border-radius: 15%;
+    border: solid #233C43 3px;
+}
+
+.Topico_funcao{
+    background-color: #77A3BB;
+    width: 550px;
+    height: 500px;
+    padding: 25px;
+    float: right;
+    margin-right: 35px;
+    border-radius: 15%;
+    border: solid #233C43 3px;
+}
+
+.Topico_ciclo{
+    background-color: #77A3BB;
+    width: 550px;
+    height: 500px;
+    padding: 25px;
+    float: center;
+    margin: 0 auto;
+    border-radius: 15%;
+    border: solid #233C43 3px;
+}
+
+.Topico_mindsets{
+    float: center;
+    margin-top: 100px;
+    padding: 25px;
+    height: 1035px;
+}
+
+.Mindset1{
+    background-color: #3E657A;
+    display: block;
+    float: left;
+    width: 500px;
+    height: 800px;
+    padding: 25px;
+    border-radius: 5%;
+    border: solid #233C43 3px;
+}
+
+.Mindset2{
+    background-color: #3E657A;
+    display: block;
+    margin-left: 38%;
+    width: 500px;
+    height: 800px;
+    padding: 25px;
+    border-radius: 5%;
+    border: solid #233C43 3px;
+}
+
+.Mindset3{
+    background-color: #3E657A;
+    margin-left: 12%;
+    margin-top: -37%;
+    display: block;
+    float: right;
+    width: 500px;
+    height: 800px;
+    padding: 25px;
+    border-radius: 5%;
+    border: solid #233C43 3px;
+}
+
+.Tipos_mindsets{
+    background-color: #5C91AD;
+}
