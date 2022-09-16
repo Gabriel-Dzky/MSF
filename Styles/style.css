@@ -4,6 +4,13 @@ body{
     background-color: #E4EEF1;
 }
 
+.unipar{
+    position:sticky;
+    top: 10px;
+    opacity: 0.35;
+    width: 5%;
+}
+
 .nomes{
     background-color: #625F81;
     width: 450px;
